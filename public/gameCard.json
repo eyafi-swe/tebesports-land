@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "gameImage": "../src/assets/fftour.jfif",
+    "model": "FREE FIRE Tournament"
+  },
+  {
+    "id": 2,
+    "gameImage": "../src/assets/rewards.webp",
+    "model": "Win Rewards"
+  },
+  {
+    "id": 3,
+    "gameImage": "../src/assets/diamond.webp",
+    "model": "Top Up Diamonds"
+  }
+]

@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.banner-img {
+  /* background-image: url("../src/assets/freefire.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background: url("../src/assets/gaming.jpg") no-repeat center center/cover;
+  filter: contrast(1.2);
+  /* filter: brightness(0.8); */
+
+}
+
+.sponsored_bg {
+  background-image: url("https://i.ibb.co/Y7kKwDf/52991634281-aea6b68e49-h.jpg");
+}
+
+.footer_banner_bg {
+  background-image: url("./assets/foooterbg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  width: 100%;
+}
