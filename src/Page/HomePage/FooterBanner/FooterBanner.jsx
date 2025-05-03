@@ -10,7 +10,7 @@ const FooterBanner = () => {
             <FaFacebook className=" text-white w-7 h-7 shadow-2xl" />
           </div>
         </a>
-        <a href="mailto:tebesports@gmail.com" >
+        <a href="mailto:tebesports.ff@gmail.com" >
           <div className="hover:hover:bg-[#d31c3e] duration-300 rounded-es-2xl rounded rounded-se-2xl w-20 h-20 bg-[#292636] flex justify-center items-center">
             <BiLogoGmail className=" text-white w-7 h-7 shadow-2xl" />
           </div>
