@@ -61,7 +61,7 @@ const Banner = () => {
 
           </p>
 
-          <a href="/TEB_ESPORTS_1.0.3.apk" download={true} className="mx-2 bg-[#d31c3e] font-semibold duration-300 rounded rounded-ss-xl  rounded-ee-xl hover:bg-white px-7 py-3 text-white hover:text-black">
+          <a href="/TEB_ESPORTS_1.0.4.apk" download={true} className="mx-2 bg-[#d31c3e] font-semibold duration-300 rounded rounded-ss-xl  rounded-ee-xl hover:bg-white px-7 py-3 text-white hover:text-black">
             Download App
           </a>
           <div className="mx-2 font-bold mt-5 w-max bg-white  duration-300 rounded rounded-ss-xl  rounded-ee-xl  px-7 py-3 text-black">
